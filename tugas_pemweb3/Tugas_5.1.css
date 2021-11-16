@@ -1,0 +1,25 @@
+.row{
+    border: 1px solid black;
+    width: 900px;
+    height: 500px;
+    margin: auto;
+}
+.col{
+    border: 1px solid black;
+    width: 200px;
+    height: 500px;
+    float: left;
+    margin-left: 20px;
+}
+.yellow{
+    background-color: rgb(252, 252, 45);
+}
+.orange{
+    background-color: rgb(255, 53, 53);
+}
+.green{
+    background-color: rgb(93, 197, 93);
+}
+.blue{
+    background-color: rgb(5, 235, 235);
+}

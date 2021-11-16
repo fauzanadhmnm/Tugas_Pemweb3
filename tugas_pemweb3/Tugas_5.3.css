@@ -1,0 +1,50 @@
+.luar{
+    margin-left: 50px;
+}
+.row{
+    width: 1150px;
+    height: 100px;
+}
+.col{
+    height: 100px;
+}
+.yellow{
+    width: 300px;
+    border: 1px solid black;
+    background-color: yellow;
+    float: left;
+}
+.Orange{
+    width: 825px;
+    border: 1px solid black;
+    background-color: Orange;
+    float: right;
+}
+.col2{
+    height: 500px;
+    margin-top: 20px;
+    border: 1px solid black;
+    float: left;
+    
+}
+.green{
+    background-color: darkolivegreen;
+    width: 300px;
+}
+.grey{
+    background-color: grey;
+    margin-left: 20px;
+    width: 500px;
+}
+.cyan{
+    background-color: cyan;
+    width: 300px;
+    margin-left: 20px;
+}
+.blue{
+    height: 100px;
+    width: 1150px;
+    margin-bottom: 10px;
+    background-color: darkblue;
+}
+
